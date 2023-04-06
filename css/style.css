@@ -220,7 +220,7 @@ main {
     margin: 10px 0 0;
 }
 
-@media screen and (max-width: 1600px) {
+@media screen and (max-width: 2200px) {
     body { 
         font-size: 14px;
     }
@@ -231,7 +231,7 @@ main {
     }
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1366px) {
     body { 
         font-size: 13px;
     }
