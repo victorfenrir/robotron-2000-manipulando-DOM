@@ -37,11 +37,22 @@ main {
     position: relative;
 }
 
+.alterar {
+    margin: 2px;
+    width: 100px;
+}
+
+.botoes {
+   position: relative;
+   right: 5%;
+   bottom: 10%;
+   display: flex;
+}
+
 .robo {
-    height: 110%;
+    height: 100%;
     z-index: 1;
     position: absolute;
-    left: -20%;
     top: -5%;
 }
 
