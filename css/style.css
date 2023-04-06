@@ -44,8 +44,8 @@ main {
 
 .botoes {
    position: relative;
-   right: 5%;
-   bottom: 10%;
+   right: -6%;
+   bottom: 12%;
    display: flex;
 }
 
@@ -54,6 +54,7 @@ main {
     z-index: 1;
     position: absolute;
     top: -5%;
+    left: 20%
 }
 
 .titulo {
@@ -73,7 +74,7 @@ main {
     background: rgba(0,0,0,0.6);
     clip-path: polygon(calc(100% - 30px) 0, 100% 30px, 100% calc(100% - 30px), calc(100% - 30px) 100%, 30px 100%, 0 calc(100% - 30px), 0 30px, 30px 0);
     border-left: 5px solid var(--main-cinza);
-    height: 80%;
+    height: 90%;
 }
 
 /****************************** Equipamentos *****/
